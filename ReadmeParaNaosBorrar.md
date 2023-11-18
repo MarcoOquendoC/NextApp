@@ -1,4 +1,12 @@
-falta corregir el menu y aumentar las secciones que hacen falta, una imagen mockup también.
+# falta
+- traducir todo a español
+- corregir el menu
+- sección future features
+- sección acknowledments
+- licencia
+- aumentar los colaboradores involucrados
+- referencia al diseño de la página
+- imagen mockup
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
